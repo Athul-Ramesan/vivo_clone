@@ -1,0 +1,72 @@
+
+.vivo-info{
+    background-color: #242933;
+    color:#6e7582;
+    display:flex;
+   
+    padding-top: 4.5%;
+    padding-left: 5%;
+    gap:5%;
+    padding-bottom: 50px;
+    
+}
+.viv0-info span:hover{
+    color:#415fff ;
+}
+.about-vivo-flex2 img{
+    width:30px;
+    
+}
+
+.about-vivo-flex1{
+    width:75%;
+    display: flex;
+    justify-content: space-between;
+    line-height: 2;
+}
+.about-vivo-flex2{
+    display:flex;
+    flex-direction: column;
+    width:25%;
+    font-size: 17px;
+    gap:10px;
+    
+}
+.social-icons{
+    padding-top: 35px;
+}
+.social-icons img{
+    padding-top: 10px;
+    padding-right: 10px;
+    width: 40px;
+}
+
+.about-vivo h5{
+    color:rgb(255, 255, 255);
+    font-size: 16px;
+
+}
+
+.about-vivo h6{
+    color:rgb(132, 132, 132);
+    font-size: 15px;
+    padding-top:15px;
+}
+.about-vivo h6:hover{
+    color:#415fff
+}
+footer{
+    font-size: 14px;
+    display: flex;
+    justify-content: space-around;
+    background-color: #242933;
+    color: rgb(132, 132, 132);
+    padding:20px;
+}
+hr {
+    height: 1px;
+    border-width: 0;
+    border-style: solid;
+   
+    
+}
