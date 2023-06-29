@@ -10,8 +10,8 @@
     padding-bottom: 50px;
     
 }
-.viv0-info span:hover{
-    color:#415fff ;
+vivo info h5,h6,span{
+    cursor:pointer;
 }
 .about-vivo-flex2 img{
     width:30px;
@@ -44,7 +44,6 @@
 .about-vivo h5{
     color:rgb(255, 255, 255);
     font-size: 16px;
-    cursor:pointer;
 
 }
 
