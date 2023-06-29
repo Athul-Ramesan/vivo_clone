@@ -44,6 +44,7 @@
 .about-vivo h5{
     color:rgb(255, 255, 255);
     font-size: 16px;
+    cursor:pointer;
 
 }
 
@@ -51,6 +52,7 @@
     color:rgb(132, 132, 132);
     font-size: 15px;
     padding-top:15px;
+    cursor:pointer;
 }
 .about-vivo h6:hover{
     color:#415fff
