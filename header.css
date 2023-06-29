@@ -38,7 +38,7 @@ nav{
     margin-left: 35px;
     transition: color .4s;
     padding-top: 5px;
-    
+    cursor:pointer;
    
 }
 .middle-header{
